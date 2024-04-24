@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Android,Voice cloning and Rust
 - 🤔 I’m looking for help with master/PHD offers
 - 📫 How to reach
-      - 📧(e-mail):1487914438@qq.com
-      - Wechat:AlanSP0604
+   - 📧(e-mail):1487914438@qq.com
+   - Wechat:AlanSP0604
 - ⚡ Fun fact: Seriously,I'm a severe otaku,being zealous in acg (animations,comics and galgames).
     
 <!--
