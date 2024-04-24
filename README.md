@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi there 👋,I'm AlanSP😄
+- 🔭 I’m an ACMer in Grade 2022,Beijing Institute of Technology(BIT).
+- 🌱 I’m currently learning Android,Voice cloning and Rust
+- 🤔 I’m looking for help with master/PHD offers
+- 📫 How to reach
+      - 📧(e-mail):1487914438@qq.com
+      - Wechat:AlanSP0604
+- ⚡ Fun fact: Seriously,I'm a severe otaku,being zealous in acg (animations,comics and galgames).
+    
 <!--
 **Alan-sp/Alan-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
