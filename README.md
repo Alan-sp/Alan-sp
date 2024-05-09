@@ -6,7 +6,6 @@
 - 📫 How to reach
    - 📧(e-mail):1487914438@qq.com
    - Wechat:AlanSP0604
-- ⚡ Fun fact: Seriously,I'm a severe otaku.
     
 <!--
 **Alan-sp/Alan-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
