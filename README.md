@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm AlanSP😄
 - 🔭 I’m an ACMer in Grade 2022,Beijing Institute of Technology(BIT).
-- 🌱 I’m currently learning Android,voice cloning and 3D Vision
-- 🤔 I’m looking for help with master/PHD offers
+- 🌱 I’m currently learning Raft,evaluate for LLM and 3D Vision
+- 🤔 ~~I’m looking for help with master/PHD offers~~
 - 💬 Ask me whatever you want to ,as long as I have the ability to answer. XD
 - 📫 How to reach
    - 📧(e-mail):1487914438@qq.com
