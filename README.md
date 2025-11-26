@@ -2,10 +2,11 @@
 - 🔭 I’m an ACMer in Grade 2022,Beijing Institute of Technology(BIT).
 - 🌱 I’m currently learning Raft,evaluate for LLM and 3D Vision
 - 🤔 ~~I’m looking for help with master/PHD offers~~
+- 👯 I'm an incoming master at School of Computer Sciencec, Peking University.
 - 💬 Ask me whatever you want to ,as long as I have the ability to answer. XD
 - 📫 How to reach
+   - 📧(e-mail):li_ang@bit.edu.com
    - 📧(e-mail):1487914438@qq.com
-   - Wechat:AlanSP0604
     
 <!--
 **Alan-sp/Alan-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
